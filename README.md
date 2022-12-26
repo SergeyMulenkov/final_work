@@ -5,7 +5,7 @@
 * _Задача:_ __Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.__
 
 * Блок-схема представлена в папке block_diagram
-![Блок-схема]([https://github.com/SergeyMulenkov/final_work/tree/main/block_diagram](https://github.com/SergeyMulenkov/final_work/blob/main/block_diagram/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png))
+![Блок-схема](https://github.com/SergeyMulenkov/final_work/blob/main/block_diagram/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)
 
 > Задача пишется на языке программирования **С#** :
 
